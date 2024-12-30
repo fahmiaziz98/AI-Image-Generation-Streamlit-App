@@ -4,4 +4,6 @@ diffusers==0.10.2
 huggingface-hub==0.26.0
 python-dotenv==1.0.1
 numpy==2.1.2
+openai==1.54.3
+
 # Add any other dependencies you need for your app
